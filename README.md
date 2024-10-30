@@ -8,3 +8,17 @@ Grasp detection based on NeRF
 
 ### Grasp Detection
 ![GraspD](https://github.com/user-attachments/assets/b2d2e949-7419-4ead-bd25-337838ef1633)
+
+If you find this work helpful, please consider to cite:
+```
+@misc{GraspDNeRF,
+    title={GraspDNeRF: Grasp Detection Based on Neural Radiance Fileds},
+    author={Lifei, Xiao},
+    year={2024},
+    month = Nov,
+    address = {Human-Computer Interaction Lab, Nanjing University of Information Science & Technology, Nanjing, CHINA},
+    email = {}
+    publisher = {Github},
+    primaryClass={cs.CV}
+    
+}
