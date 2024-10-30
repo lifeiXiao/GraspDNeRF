@@ -17,7 +17,6 @@ If you find this work helpful, please consider to cite:
     year={2024},
     month = Nov,
     address = {Human-Computer Interaction Lab, Nanjing University of Information Science & Technology, Nanjing, CHINA},
-    email = {}
     publisher = {Github},
     primaryClass={cs.CV}
     
