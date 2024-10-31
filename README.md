@@ -15,7 +15,7 @@ If you find this work helpful, please consider to cite:
     title={GraspDNeRF: Grasp Detection Based on Neural Radiance Fileds},
     author={Lifei, Xiao},
     year={2024},
-    month = Nov,
+    month = {Nov},
     address = {Human-Computer Interaction Lab, Nanjing University of Information Science & Technology, Nanjing, CHINA},
     publisher = {Github},
     primaryClass={cs.CV}
